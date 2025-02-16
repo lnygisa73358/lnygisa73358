@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm lnygisa73358
 
-<!--
-**lnygisa73358/lnygisa73358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎳 🎪 🎱 Exploring the world of testing 🎳 🎪 🎱
 
-Here are some ideas to get you started:
+## About Me
+🏸 🎮 🚴 🌺 A hacker in startup culture 🏸 🎮 🚴 🌺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛶 🎳 Looking to collaborate on full stack development 🛶 🎳
+
+### Fun Facts
+✨ 🏏 A keen learner of design thinking ✨ 🏏
+
+---
+🎬 🥁 🏓 🎭 🏏 Thanks for visiting my profile! 🎽 🎣 🥊 🚀 🎻
